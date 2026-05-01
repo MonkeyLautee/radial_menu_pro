@@ -1,5 +1,7 @@
 A customizable radial menu widget for Flutter that expands items in various directions and quadrants.
 
+![Radial Menu Demo](https://raw.githubusercontent.com/MonkeyLautee/radial_menu_pro/refs/heads/main/assets/Radial%20menu%20pro%20package.gif)
+
 ## Getting started
 
 ```bash

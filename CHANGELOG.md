@@ -5,3 +5,7 @@
 ## 1.0.1
 
 * Fixing simple README.md file text issues.
+
+## 1.0.2
+
+* Demo gif added in the description.
