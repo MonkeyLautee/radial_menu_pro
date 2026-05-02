@@ -9,3 +9,7 @@
 ## 1.0.2
 
 * Demo gif added in the description.
+
+## 1.0.3
+
+* Added the GitHub repository link.
